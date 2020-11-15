@@ -6,7 +6,7 @@
   "scripts": {
     "build:dev": "webpack --mode='development' --config webpack.dev.js",
     "build:prod": "NODE_ENV=production webpack --mode=production --config webpack.prod.js",
-    "start": "webpack serve --open"
+    "start": "webpack serve --open 'Google Chrome' --config webpack.dev.js"
   },
   "keywords": [],
   "author": "",
