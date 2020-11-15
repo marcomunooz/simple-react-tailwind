@@ -1,2 +1,0 @@
-# Simple React & Tailwind
-
